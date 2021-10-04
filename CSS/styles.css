@@ -1,0 +1,23 @@
+.separador {padding-top: 20% !important;}
+.display {display: flex;}
+.padding_sign{padding-left: 47% !important;padding-right: 45% !important;}
+.separador_2 {padding-top: 10% !important;}
+.separador_3 {padding-top: 5% !important;}
+body, html{
+    height: 100%;
+    background-color: rgb(49, 49, 49) !important;
+  
+    /* Full height */
+    height: 100%;
+}
+.bg {
+    /* The image used */
+   background-color: gainsboro;
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
